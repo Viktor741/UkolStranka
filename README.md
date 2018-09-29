@@ -1,2 +1,0 @@
-# UkolStranka
-Created with CodeSandbox
